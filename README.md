@@ -1,8 +1,9 @@
-# 👋 Hi there, I'm Caroline Varner
+# Hi there, I'm Caroline Varner!
 
+⚡ Pronouns: She/Her
 🎓 I'm a Software Engineering student at **Kennesaw State University**, minoring in **Interactive Design**.  
 💻 I am currently learning about **web development**, **user-centered design**, and **cloud computing** to create seamless digital experiences.  
-🚀 Currently building my personal portfolio site and expanding my full-stack development skills.  
+🚀 Currently building my personal portfolio site and looking to further my skills in AI model development and database development and administration.  
 🌱 Always learning, always coding.
 
 <!--
@@ -14,7 +15,7 @@
 - **Design**: UI/UX Principles, Wireframing, Prototyping, Adobe XD
 -->
 
-### 📫 Let's Connect!
+### 📫 Let's Connect:
 
 - ✉️ Email: [carolinevarner04@gmail.com](mailto:carolinevarner04@gmail.com)
 - 💼 LinkedIn: [Caroline Varner](https://www.linkedin.com/in/caroline-varner-designs/)
