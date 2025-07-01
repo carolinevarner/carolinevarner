@@ -13,9 +13,8 @@
 - **Tools & Platforms**: Git, GitHub, Figma, VS Code, MongoDB, Firebase
 - **Design**: UI/UX Principles, Wireframing, Prototyping, Adobe XD
 -->
----
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 - ✉️ Email: [carolinevarner04@gmail.com](mailto:carolinevarner04@gmail.com)
 - 💼 LinkedIn: [Caroline Varner](https://www.linkedin.com/in/caroline-varner-designs/)
