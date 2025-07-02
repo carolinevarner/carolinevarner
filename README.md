@@ -1,6 +1,7 @@
 # Hi there, I'm Caroline Varner!
 
 ⚡ Pronouns: She/Her
+
 🎓 I'm a Software Engineering student at **Kennesaw State University**, minoring in **Interactive Design**.  
 💻 I am currently learning about **web development**, **user-centered design**, and **cloud computing** to create seamless digital experiences.  
 🚀 Currently building my personal portfolio site and I am presently furthering my skills in AI model development, database development/administration, and computer graphics.  
