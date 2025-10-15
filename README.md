@@ -4,7 +4,7 @@
 💻 I am currently learning about **software development**, **user-centered design**, and **cloud computing** to create seamless digital experiences.  
 🌱 Always learning, always coding.
 
-🚀 Currently building my personal portfolio site, check out my progress! **[View My Portfolio Site!](https://cvportfolio-steel.vercel.app/)**
+🚀 Currently building my personal portfolio site, check out my progress! **[My Portfolio](https://cvportfolio-steel.vercel.app/)**
 
 <!--
 ## 🛠️ Technical Skills
