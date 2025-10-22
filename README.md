@@ -4,7 +4,7 @@
 💻 I am currently learning about **software development**, **user-centered design**, and **cloud computing** to create seamless digital experiences.  
 🌱 Always learning, always coding.
 
-🚀 Check out my website! --> **[My Portfolio](www.cvarner.me)**
+🚀 Check out my website! --> **[My Portfolio](https://www.cvarner.me)**
 
 <!--
 ## 🛠️ Technical Skills
