@@ -1,7 +1,7 @@
 # Hi there, I'm Caroline Varner!
 
-🎓 I'm a Software Engineering student at **Kennesaw State University**, minoring in **Interactive Design**.  
-💻 I am currently learning about **software development**, **user-centered design**, and **cloud computing** to create seamless digital experiences.  
+🎓 I'm a Software Engineer graduate from **Kennesaw State University** with a minor in **Interactive Design**.  
+💻 I am currently growing my skills in **software development**, **user-centered design**, and **cloud computing** to create seamless digital experiences.  
 🌱 Always learning, always coding.
 
 🚀 Check out my website! --> **[My Portfolio](https://www.cvarner.me)**
